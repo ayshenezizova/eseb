@@ -1,0 +1,2 @@
+*{margin:0;padding:0}body header{display:flex;justify-content:center}body header .container{display:flex;flex-direction:column;width:70%}body header .container .box1 img,body header .container .box3 img{width:100%;height:400px}body header .container .box2{background-color:#aa9377;display:flex;flex-direction:row;padding:70px}body header .container .box2 .text1 p{font-size:70px}body header .container .box2 .text1,body header .container .box2 .text2{width:50%}
+/*# sourceMappingURL=style.min.css.map */
